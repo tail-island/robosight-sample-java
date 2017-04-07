@@ -70,10 +70,6 @@ public class Program {
       return new Action("turn-to", antiVelocityAngle);
     }
     
-    try {
-      Thread.sleep(10000);
-    } catch (Exception ex) {}
-
     // 加速。
     return new Action("forward", 1.0);  // 加速が大きすぎる場合は、システムが勝手に1.0まで下げます。
   }
