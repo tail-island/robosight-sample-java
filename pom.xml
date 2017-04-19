@@ -4,7 +4,7 @@
   <groupId>com.tail_island.robosight</groupId>
   <artifactId>robosight-sample-java</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>robosight-sample-java</name>
   <url>http://maven.apache.org</url>
 
